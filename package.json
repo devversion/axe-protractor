@@ -1,0 +1,29 @@
+{
+  "name": "axe-protractor",
+  "version": "0.0.5",
+  "description": "Run axe-core accessibility audits inside of protractor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevVersion/axe-protractor.git"
+  },
+  "keywords": [
+    "protractor",
+    "axe-core",
+    "accessibility",
+    "audits"
+  ],
+  "author": "Paul Gschwendtner <paulgschwendtner@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevVersion/axe-protractor/issues"
+  },
+  "homepage": "https://github.com/DevVersion/axe-protractor#readme",
+  "dependencies": {
+    "axe-core": "^2.0.7",
+    "axe-webdriverjs": "^0.4.0"
+  }
+}
